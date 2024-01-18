@@ -1,5 +1,5 @@
 
-<h3 align="center">Unity Expert || ML Engineer || AI Expert || Python Programmer</h3>
+<h3 align="center">React Expert || AI Expert || Full Stack Engineer</h3>
 
 ## I little bit about me
 
